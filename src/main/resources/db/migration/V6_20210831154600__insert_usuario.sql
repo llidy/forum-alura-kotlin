@@ -1,0 +1,1 @@
+insert into usuario values(1, 'Ana da Silva', 'ana@gmail.com');

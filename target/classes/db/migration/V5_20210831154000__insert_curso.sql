@@ -1,0 +1,1 @@
+insert into curso values(1, 'Kotlin', 'Programação');

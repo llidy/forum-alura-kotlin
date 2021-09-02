@@ -24,10 +24,10 @@ spring:
     dialect: org.hibernate.dialect.MySQL8Dialect
 
   jpa:
-    hibernate.ddl-auto: update
-    generate-ddl: true
-    show-sql: true
-    format_sql: true
+#    hibernate.ddl-auto: create-drop
+      generate-ddl: true
+      show-sql: true
+      format_sql: true
 
 #    spring:
 #      jpa:
